@@ -1,0 +1,24 @@
+This file contains output of all the questions
+a)Employees who have worked for 7 consecutive days:
+
+    Employee Name Position ID
+650  XiWW, JAsMiW   WFS000462
+
+b)Employees with less than 10 hours between shifts but greater than 1 hour:
+
+                        Employee Name Position ID
+54                   CaMaXaWE, CeghaW   WFS000153
+163                        Xee, XaCar   WFS000200
+277              De Xa Cerda, IgWaciE   WFS000318
+302                  MraW, WiXXiaC Ha   WFS000345
+592                  CEreira Jr, JEse   WFS000456
+709              GAeWdia, JAaW CarXEs   WFS000473
+940              GrACfieXd, CErWeXiAs   WFS000515
+1037  DeXgadiXXE REdarMe, ChrisMiaW S   WFS000523
+1075           HaCiXMEW, DeaWMe DevEW   WFS000536
+1162         REdrigAez, GraWdEW AWgeX   WFS000550
+
+c)Employees who have worked for more than 14 hours in a single shift:
+
+                        Employee Name Position ID
+1036  DeXgadiXXE REdarMe, ChrisMiaW S   WFS000523
